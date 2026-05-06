@@ -4,8 +4,6 @@
 
 **Live demo → [appapppy-cpieebtb6c8nwbeudzupen.streamlit.app](https://appapppy-cpieebtb6c8nwbeudzupen.streamlit.app/)**
 
-<img width="1917" height="867" alt="Screenshot 2026-05-06 155240" src="https://github.com/user-attachments/assets/cee3fae7-9c2b-4271-9b7c-8561b2f0bbae" />
-
 
 Built on 3,213 films from the TMDB dataset. Full end-to-end ML pipeline: data engineering → EDA → XGBoost model (R²=0.80) → deployed Streamlit app with filmmaker intelligence dashboard.
 
@@ -14,6 +12,9 @@ Built on 3,213 films from the TMDB dataset. Full end-to-end ML pipeline: data en
 ## Live demo
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://appapppy-cpieebtb6c8nwbeudzupen.streamlit.app/)
+
+<img width="1862" height="762" alt="Screenshot 2026-05-03 055217" src="https://github.com/user-attachments/assets/989445e7-b661-4597-8e4d-31f1abd65b5a" />
+
 
 **Test it with Sinners (2025):**
 - Budget: $90M · Runtime: 137 min · Popularity: 85
