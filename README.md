@@ -4,6 +4,9 @@
 
 **Live demo → [appapppy-cpieebtb6c8nwbeudzupen.streamlit.app](https://appapppy-cpieebtb6c8nwbeudzupen.streamlit.app/)**
 
+<img width="1917" height="867" alt="Screenshot 2026-05-06 155240" src="https://github.com/user-attachments/assets/cee3fae7-9c2b-4271-9b7c-8561b2f0bbae" />
+
+
 Built on 3,213 films from the TMDB dataset. Full end-to-end ML pipeline: data engineering → EDA → XGBoost model (R²=0.80) → deployed Streamlit app with filmmaker intelligence dashboard.
 
 ---
